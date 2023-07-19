@@ -43,3 +43,5 @@ Document your work, including the overall design of your system, how to use it, 
 3. Image Processing: I will learn how to fetch, display, and manipulate images in Python. If I implement features like zoom or image annotation, this will further enhance my image processing skills.
 4. Geospatial Data: Working with map imagery and coordinates will give me experience with geospatial data. I'll learn how to interpret and use longitude and latitude, possibly in different coordinate formats.
 5. Python Programming: More generally, this project will strengthen my Python programming skills, including coding, debugging, error handling, and perhaps working with additional libraries.
+
+## GUI Images: 
