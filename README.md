@@ -45,3 +45,5 @@ Document your work, including the overall design of your system, how to use it, 
 5. Python Programming: More generally, this project will strengthen my Python programming skills, including coding, debugging, error handling, and perhaps working with additional libraries.
 
 ## GUI Images: 
+<img src="Image1.png" width="420">
+<img src="Image2.png" width="420">
